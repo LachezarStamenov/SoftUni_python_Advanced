@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09_Functions_Advanced_Lab/06_operate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs_and_exercises/expression_evaluator_nasko.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -204,7 +204,9 @@
       <workItem from="1653052516493" duration="101000" />
       <workItem from="1653060803825" duration="3224000" />
       <workItem from="1653271974094" duration="148000" />
-      <workItem from="1653299688306" duration="3111000" />
+      <workItem from="1653299688306" duration="3326000" />
+      <workItem from="1653311172040" duration="3000" />
+      <workItem from="1653320229336" duration="3413000" />
     </task>
     <servers />
   </component>
@@ -255,6 +257,11 @@
           <line>11</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09_Functions_Advanced_Lab/06_operate.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -266,6 +273,7 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$04_rectangle.coverage" NAME="04_rectangle Coverage Results" MODIFIED="1653301988019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02_person_info.coverage" NAME="02_person_info Coverage Results" MODIFIED="1653041062472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_ramen_shop.coverage" NAME="01_ramen_shop Coverage Results" MODIFIED="1653041517368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$06_operate.coverage" NAME="06_operate Coverage Results" MODIFIED="1653302957504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$03_cheese_showcase.coverage" NAME="03_cheese_showcase Coverage Results" MODIFIED="1653048591198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_count_same_values.coverage" NAME="01_count_same_values Coverage Results" MODIFIED="1652877163844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Tuples_and_sets_lab" />
   </component>
