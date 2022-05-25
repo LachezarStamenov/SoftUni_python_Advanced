@@ -3,14 +3,14 @@
 # On the first line, you will receive the rows of the matrix. On the next rows, you will get elements for each column
 # separated with a comma and a space ", ".
 
-rows = int(input())
+# rows = int(input())
 
 # matrix = []
 
 # for _ in range(rows):
 #     nums = [int(el) for el in input().split(", ") if int(el) % 2 == 0]
 #     matrix.append(nums)
-
+rows = int(input())
 matrix = [[int(el) for el in input().split(", ") if int(el) % 2 == 0] for _ in range(rows)]
 
 print(matrix)

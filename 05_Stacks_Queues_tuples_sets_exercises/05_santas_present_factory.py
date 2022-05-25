@@ -37,16 +37,14 @@
 
 from collections import deque
 
-import crafting as crafting
-
 materials = [int(x) for x in input().split()]
 magic_levels = deque([int(x) for x in input().split()])
 
 presents = {
-    150: "doll",
-    250: "wooden_train",
-    300: "teddy_bear",
-    400: "bicycle"
+    150: "Doll",
+    250: "Wooden train",
+    300: "Teddy bear",
+    400: "Bicycle"
 }
 
 crafted_presents = {}
@@ -77,8 +75,8 @@ while materials and magic_levels:
         else:
             materials.append(current_material)
 
-if ('doll' in crafted_presents and 'wooden_train' in crafted_presents) or \
-        ('teddy_bear' in crafted_presents and 'bicycle' in crafted_presents):
+if ('Doll' in crafted_presents and 'Wooden train' in crafted_presents) or \
+        ('Teddy bear' in crafted_presents and 'Bicycle' in crafted_presents):
     print("The presents are crafted! Merry Christmas!")
 else:
     print("No presents this Christmas!")
@@ -87,7 +85,7 @@ if materials:
     print(f"Materials left: {', '.join([str(x) for x in reversed(materials)])}")
 
 if magic_levels:
-    print(f"Magic left: {', '.join([str(x) for x in reversed(magic_levels)])}")
+    print(f"Magic left: {', '.join([str(x) for x in magic_levels])}")
 
 for present, count in sorted(crafted_presents.items()):
     print(f'{present}: {count}')

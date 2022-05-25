@@ -28,8 +28,6 @@
 # •	Alice will always either go outside the Wonderland or collect 10 bags of tea
 # •	All the commands will be valid
 # •	All of the given numbers will be valid integers in the range [0, 10]
-import alice as alice
-
 
 def get_next_position(direction, r, c):
     if direction == 'up':

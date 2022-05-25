@@ -27,7 +27,7 @@ for _ in range(n):
         else:
             [second_set.add(int(x)) for x in line[2:]]
     elif command == "Remove":
-        if command == "First":
+        if command_param == "First":
             first_set = first_set.difference([(int(x)) for x in line[2:]])
         else:
             second_set = second_set.difference([(int(x)) for x in line[2:]])
