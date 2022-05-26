@@ -35,4 +35,21 @@ print(f"{matrix[best_row][best_col]} {matrix[best_row][best_col + 1]} {matrix[be
 print(f"{matrix[best_row + 1][best_col]} {matrix[best_row + 1][best_col + 1]} {matrix[best_row + 1][best_col + 2]}")
 print(f"{matrix[best_row + 2][best_col]} {matrix[best_row + 2][best_col + 1]} {matrix[best_row + 2][best_col + 2]}")
 
-
+# second solution
+# max_sum = None
+#
+# rows, cols = [int(x) for x in input().split()]
+#
+# matrix = [[x for x in input().split()] for _ in range(rows)]
+#
+# for i in range(rows - 2):
+#     for j in range(cols - 2):
+#         sub_matrix = [matrix[r][j:j + 3] for r in range(i, i + 3)]
+#         temp_sum = sum([int(x) for row in sub_matrix for x in row])
+#         if not max_sum or temp_sum > max_sum:
+#             max_sum = temp_sum
+#             output_matrix = sub_matrix.copy()
+#
+# print(f'Sum = {max_sum}')
+# for row in output_matrix:
+#     print(' '.join([str(x) for x in row]))

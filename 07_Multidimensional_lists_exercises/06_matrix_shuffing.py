@@ -30,6 +30,7 @@ while True:
 
     if len(line.split()) != 5 or command != "swap":
         print('Invalid input!')
+        continue
 
     row1, col1, row2, col2 = [int(x) for x in (line.split()[1:])]
 

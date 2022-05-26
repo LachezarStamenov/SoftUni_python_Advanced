@@ -84,7 +84,7 @@ for row in matrix:
             alive_cells += 1
             alive_cells_sum += el
 print(f'Alive cells: {alive_cells}')
-print(f'Alive sum: {alive_cells_sum}')
+print(f'Sum: {alive_cells_sum}')
 
 for row in matrix:
     print(*row, sep=' ')
