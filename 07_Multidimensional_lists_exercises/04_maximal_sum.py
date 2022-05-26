@@ -17,7 +17,7 @@ matrix = []
 for _ in range(rows):
     matrix.append([int(x) for x in input().split()])
 
-max_sum = 0
+max_sum = float('-inf')
 best_row = 0
 best_col = 0
 

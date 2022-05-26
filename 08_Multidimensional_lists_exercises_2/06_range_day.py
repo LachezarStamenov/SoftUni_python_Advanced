@@ -84,7 +84,7 @@ for _ in range(n):
             continue
         matrix[player_row][player_col] = '.'
         player_row, player_col = next_row, next_col
-        matrix[player_row][player_col] = '.'
+        matrix[player_row][player_col] = 'А'
     else:
         bullet_row, bullet_col = player_row, player_col
         while True:
@@ -93,8 +93,9 @@ for _ in range(n):
             if is_outside(bullet_row, bullet_col, size):
                 break
             if matrix[bullet_row][bullet_col] == 'x':
-                hit_targets.append([bullet_row, bullet_col])
                 targets_left -= 1
+                hit_targets.append([bullet_row, bullet_col])
+                matrix[bullet_row][bullet_col] = '.'
                 break
         if targets_left == 0:
             break
