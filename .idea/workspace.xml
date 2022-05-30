@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labs_and_exercises/bombs_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Functions_Advanced_exercises/1_negative_vs_positive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_Multidimensional_lists_exercises/04_maximal_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Multidimensional_lists_exercises/04_maximal_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_Multidimensional_lists_exercises_2/01_flatten_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Multidimensional_lists_exercises_2/01_flatten_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_Multidimensional_lists_exercises_2/06_range_day.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_Multidimensional_lists_exercises_2/06_range_day.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs_and_exercises/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs_and_exercises/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
       <recent name="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo">
+  <component name="RunManager" selected="Python.1_negative_vs_positive">
     <configuration name="01_flatten_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_radioactive_mutant_vampire_bunnies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1_negative_vs_positive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,12 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Multidimensional_lists_exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Multidimensional_lists_exercises/10_radioactive_mutant_vampire_bunnies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Functions_Advanced_exercises/1_negative_vs_positive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1_negative_vs_positive" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.07_snake_moves" />
         <item itemvalue="Python.06_range_day" />
         <item itemvalue="Python.01_flatten_lists" />
-        <item itemvalue="Python.10_radioactive_mutant_vampire_bunnies" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +218,8 @@
       <workItem from="1653475047900" duration="3080000" />
       <workItem from="1653494228688" duration="5259000" />
       <workItem from="1653541112333" duration="13198000" />
-      <workItem from="1653578309639" duration="7056000" />
+      <workItem from="1653578309639" duration="8635000" />
+      <workItem from="1653898364838" duration="1949000" />
     </task>
     <servers />
   </component>
