@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10_Functions_Advanced_exercises/1_negative_vs_positive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +47,8 @@
       <recent name="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1_negative_vs_positive">
-    <configuration name="01_flatten_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02_keyword_arguments_length">
+    <configuration name="02_keyword_arguments_length" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,12 +56,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Multidimensional_lists_exercises_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Multidimensional_lists_exercises_2/01_flatten_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Functions_Advanced_exercises/02_keyword_arguments_length.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_keyword_arguments_length" />
         <item itemvalue="Python.1_negative_vs_positive" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.07_snake_moves" />
         <item itemvalue="Python.06_range_day" />
-        <item itemvalue="Python.01_flatten_lists" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +218,7 @@
       <workItem from="1653494228688" duration="5259000" />
       <workItem from="1653541112333" duration="13198000" />
       <workItem from="1653578309639" duration="8635000" />
-      <workItem from="1653898364838" duration="1949000" />
+      <workItem from="1653898364838" duration="2868000" />
     </task>
     <servers />
   </component>
@@ -322,6 +321,7 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$04_maximal_sum.coverage" NAME="04_maximal_sum Coverage Results" MODIFIED="1653542737739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_Multidimensional_lists_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02_martian_explorer.coverage" NAME="02_martian_explorer Coverage Results" MODIFIED="1653470196403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$06_summation_pairs.coverage" NAME="06_summation_pairs Coverage Results" MODIFIED="1652862839722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Tuples_and_sets_lab" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$1_negative_vs_positive.coverage" NAME="1_negative_vs_positive Coverage Results" MODIFIED="1653901008507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02_person_info.coverage" NAME="02_person_info Coverage Results" MODIFIED="1653041062472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$06_operate.coverage" NAME="06_operate Coverage Results" MODIFIED="1653302957504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$06_range_day.coverage" NAME="06_range_day Coverage Results" MODIFIED="1653565723236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_Multidimensional_lists_exercises_2" />
