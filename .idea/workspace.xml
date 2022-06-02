@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11_Error_handling_lab/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam/02_pawn_wars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Error_handling_lab/custom_exceptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,29 +48,7 @@
       <recent name="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_1">
-    <configuration name="01. Flowers Finder_Author's Solution 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/01. Flowers Finder_Author's Solution 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.custom_exceptions">
     <configuration name="01_flower_finder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,6 +115,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="custom_exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Error_handling_lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Error_handling_lab/custom_exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.custom_exceptions" />
         <item itemvalue="Python.task_1" />
         <item itemvalue="Python.02. Pawn Wars_Author's Solution" />
         <item itemvalue="Python.02_pawn_wars" />
         <item itemvalue="Python.01_flower_finder" />
-        <item itemvalue="Python.01. Flowers Finder_Author's Solution 2" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +226,7 @@
       <workItem from="1654160259772" duration="6688000" />
       <workItem from="1654173852817" duration="2248000" />
       <workItem from="1654176535482" duration="740000" />
-      <workItem from="1654190083287" duration="342000" />
+      <workItem from="1654190083287" duration="1305000" />
     </task>
     <servers />
   </component>
@@ -375,6 +374,7 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$demo.coverage" NAME="demo Coverage Results" MODIFIED="1653584518338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs_and_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$04_numbers_filter.coverage" NAME="04_numbers_filter Coverage Results" MODIFIED="1653912281004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$07_grocery.coverage" NAME="07_grocery Coverage Results" MODIFIED="1654017228538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$custom_exceptions.coverage" NAME="custom_exceptions Coverage Results" MODIFIED="1654191096284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Error_handling_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$05_softini_party.coverage" NAME="05_softini_party Coverage Results" MODIFIED="1653047457229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Tuples_and_sets_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$08_age_assignment.coverage" NAME="08_age_assignment Coverage Results" MODIFIED="1654017823027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02__Martian_Explorer_Author_s_Solution.coverage" NAME="02. Martian Explorer_Author's Solution Coverage Results" MODIFIED="1653465509990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -390,7 +390,7 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$05_concatenate.coverage" NAME="05_concatenate Coverage Results" MODIFIED="1654015150066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$05_santas_present_factory.coverage" NAME="05_santas_present_factory Coverage Results" MODIFIED="1653456147555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Stacks_Queues_tuples_sets_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$06_function_executor.coverage" NAME="06_function_executor Coverage Results" MODIFIED="1654015734688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
-    <SUITE FILE_PATH="coverage/Python_Advanced$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1654190422716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Error_handling_lab" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1654190689084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Error_handling_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_ramen_shop.coverage" NAME="01_ramen_shop Coverage Results" MODIFIED="1653041517368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02_keyword_arguments_length.coverage" NAME="02_keyword_arguments_length Coverage Results" MODIFIED="1653904335803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02_pawn_wars.coverage" NAME="02_pawn_wars Coverage Results" MODIFIED="1654173944009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
