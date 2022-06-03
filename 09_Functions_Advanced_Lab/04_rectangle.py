@@ -22,4 +22,4 @@ def rectangle(length, width):
     return f"Rectangle area: {area()}" '\n' f"Rectangle perimeter: {perimeter()}"
 
 
-print(rectangle('2', 10))
+print(rectangle(2, 10))
