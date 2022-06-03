@@ -2,7 +2,7 @@ numbers_dictionary = {}
 
 line = input()
 
-while line != "Search":
+while not line == "Search":
 
     number_as_string = line
     try:
@@ -15,7 +15,7 @@ while line != "Search":
 
 line = input()
 
-while line != "Remove":
+while not line == "Remove":
     searched = line
     try:
         print(numbers_dictionary[searched])
@@ -25,7 +25,7 @@ while line != "Remove":
 
 line = input()
 
-while line != "End":
+while not line == "End":
     searched = line
     try:
         del numbers_dictionary[searched]
