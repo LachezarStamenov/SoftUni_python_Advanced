@@ -36,13 +36,14 @@
 # Constraints
 # •	All the elves' values will be integers in the range [1, 100]
 # •	All the boxes' values will be integers in the range [1, 100]
+
 from collections import deque
 
 elfs_energies = deque(int(x) for x in input().split())
 materials = [int(x) for x in input().split()]
 
 toys = 0
-energy_left = 0
+consumed_energy = 0
 elves_count = 0
 
 while True:
@@ -51,40 +52,42 @@ while True:
 
     current_energy = elfs_energies.popleft()
     current_material = materials.pop()
-    elves_count += 1
-    if current_energy < current_material and current_energy <= 5:
+
+    if current_energy < 5:
         materials.append(current_material)
         continue
-    elif current_energy < current_material:
-        materials.append(current_material)
+
+    needed_energy = current_material
+    elves_count += 1
+
+    if elves_count % 3 == 0:
+        needed_energy = current_material * 2
+
+    if current_energy < needed_energy:
         elfs_energies.append(current_energy * 2)
-    else:
-        if elves_count % 3 == 0:
-            if current_energy >= current_material * 2:
-                current_energy = current_energy - current_material * 2
-                toys += 1
-                energy_left += current_material * 2
-                if current_energy > 0:
-                    elfs_energies.append(current_energy)
-            else:
-                elfs_energies.append(current_energy * 2)
-                materials.append(current_material)
+        materials.append(current_material)
+        continue
+
+    consumed_energy += needed_energy
+    current_energy -= needed_energy
+
+    if elves_count % 3 == 0:
         if elves_count % 5 == 0:
-            current_energy = current_energy - current_material
-            energy_left += current_material
-            toys += 1
-            if current_energy > 0:
-                elfs_energies.append(current_energy)
+            elfs_energies.append(current_energy)
+        else:
+            elfs_energies.append(current_energy + 1)
+            toys += 2
 
-        if elves_count % 5 != 0 and elves_count % 3 != 0:
-            current_energy = current_energy - current_material + 1
-            toys += 1
-            energy_left += current_material
-            if current_energy > 0:
-                elfs_energies.append(current_energy)
+    elif elves_count % 5 == 0:
+        elfs_energies.append(current_energy)
 
+    else:
+        elfs_energies.append(current_energy + 1)
+        toys += 1
 
-print(toys)
-print(elfs_energies)
-print(energy_left)
-print(materials)
+print(f"Toys: {toys}")
+print(f"Energy: {consumed_energy}")
+if elfs_energies:
+    print(f"Elves left: {', '.join(str(x) for x in elfs_energies)}")
+if materials:
+    print(f"Boxes left: {', '.join(str(x) for x in materials)}")
