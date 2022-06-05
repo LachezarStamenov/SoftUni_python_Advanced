@@ -19,7 +19,7 @@ def is_domain_invalid(domain, valid_domains):
     return result
 
 
-valid_domains = ['.com', '.bg', '.net', '.org']
+valid_domains = {'.com', '.bg', '.net', '.org'}
 
 while True:
     email_address = input()
