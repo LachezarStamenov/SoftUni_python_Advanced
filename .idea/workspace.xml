@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exam/01_aladdins_gifts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/02_ball_in_the_bucket.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_aladdins_gifts">
+  <component name="RunManager" selected="Python.02_ball_in_the_bucket">
     <configuration name="01_aladdins_gifts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_ball_in_the_bucket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Error_handling_exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Error_handling_exercises/02_email_validator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam/02_ball_in_the_bucket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_ball_in_the_bucket" />
         <item itemvalue="Python.01_aladdins_gifts" />
         <item itemvalue="Python.03_naughty_or_nice" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.01_christmas_elves" />
-        <item itemvalue="Python.02_email_validator" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +244,7 @@
       <workItem from="1654430909705" duration="1794000" />
       <workItem from="1654451308165" duration="6727000" />
       <workItem from="1654493790124" duration="3323000" />
-      <workItem from="1654499876648" duration="1888000" />
+      <workItem from="1654499876648" duration="6653000" />
     </task>
     <servers />
   </component>
@@ -398,6 +398,11 @@
           <line>60</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam/02_ball_in_the_bucket.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -439,12 +444,13 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$03_words_sorting.coverage" NAME="03_words_sorting Coverage Results" MODIFIED="1653478503605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs_and_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02__Pawn_Wars_Author_s_Solution.coverage" NAME="02. Pawn Wars_Author's Solution Coverage Results" MODIFIED="1654195505102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_count_same_values.coverage" NAME="01_count_same_values Coverage Results" MODIFIED="1652877163844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Tuples_and_sets_lab" />
-    <SUITE FILE_PATH="coverage/Python_Advanced$01_aladdins_gifts.coverage" NAME="01_aladdins_gifts Coverage Results" MODIFIED="1654501772391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$01_aladdins_gifts.coverage" NAME="01_aladdins_gifts Coverage Results" MODIFIED="1654501831199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$07_grocery.coverage" NAME="07_grocery Coverage Results" MODIFIED="1654017228538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$custom_exceptions.coverage" NAME="custom_exceptions Coverage Results" MODIFIED="1654191434071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Error_handling_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$05_softini_party.coverage" NAME="05_softini_party Coverage Results" MODIFIED="1653047457229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Tuples_and_sets_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$08_age_assignment.coverage" NAME="08_age_assignment Coverage Results" MODIFIED="1654242308753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$10_fill_the_box.coverage" NAME="10_fill_the_box Coverage Results" MODIFIED="1654020252744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$02_ball_in_the_bucket.coverage" NAME="02_ball_in_the_bucket Coverage Results" MODIFIED="1654507110514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$09_recursion_palindrome.coverage" NAME="09_recursion_palindrome Coverage Results" MODIFIED="1654018742270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01__Flowers_Finder_Author_s_Solution_2.coverage" NAME="01. Flowers Finder_Author's Solution 2 Coverage Results" MODIFIED="1654161885255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Python_Advanced$10_radioactive_mutant_vampire_bunnies.coverage" NAME="10_radioactive_mutant_vampire_bunnies Coverage Results" MODIFIED="1653559082532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_Multidimensional_lists_exercises" />
