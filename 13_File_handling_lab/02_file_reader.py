@@ -1,6 +1,8 @@
 # You are given a file called numbers.txt with the following content:
-file_path = 'text.txt'
+file = open('./numbers.txt', 'r')
+the_sum = 0
 
-print('---Whole file---')
-file = open(file_path, 'r')
-print(file.read())
+for line in file:
+    the_sum += int(line)
+
+print(the_sum)
