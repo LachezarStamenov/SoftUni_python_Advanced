@@ -3,7 +3,7 @@
 from fileinput import filename
 chars_to_replace = ["-", ",", ".", "!", "?"]
 
-with open('text.txt', 'r') as file:
+with open('./text.txt', 'r') as file:
     for row, line in enumerate(file):
         if row % 2 == 0:
             result = ' '.join(reversed(line.strip().split()))
