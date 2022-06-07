@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/13_File_handling_lab/03_file_writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_File_handling_lab/05_word_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_File_handling_lab/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_File_handling_lab/my_first_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_File_handling_lab/numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_File_handling_lab/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_File_handling_exercises/03_file_manipulator/03_file_manipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_File_handling_exercises/03_file_manipulator/file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_handling_lab/02_file_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/13_File_handling_lab/02_file_reader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,29 +54,7 @@
       <recent name="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_word_count">
-    <configuration name="02_file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_File_handling_lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_File_handling_lab/02_file_reader.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.03_file_manipulator">
     <configuration name="02_north_pole_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +69,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam/02_north_pole_challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_file_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_File_handling_exercises/03_file_manipulator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_File_handling_exercises/03_file_manipulator/03_file_manipulator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_file_manipulator" />
         <item itemvalue="Python.05_word_count" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.02_north_pole_challenge" />
         <item itemvalue="Python.03_file_writer" />
-        <item itemvalue="Python.02_file_reader" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +250,7 @@
       <workItem from="1654517110953" duration="163000" />
       <workItem from="1654518770838" duration="2105000" />
       <workItem from="1654531545673" duration="6708000" />
+      <workItem from="1654580571966" duration="2961000" />
     </task>
     <servers />
   </component>
@@ -472,6 +468,7 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$10_fill_the_box.coverage" NAME="10_fill_the_box Coverage Results" MODIFIED="1654020252744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02_ball_in_the_bucket.coverage" NAME="02_ball_in_the_bucket Coverage Results" MODIFIED="1654507110514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$09_recursion_palindrome.coverage" NAME="09_recursion_palindrome Coverage Results" MODIFIED="1654018742270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$03_file_manipulator.coverage" NAME="03_file_manipulator Coverage Results" MODIFIED="1654588087548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_File_handling_exercises/03_file_manipulator" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01__Flowers_Finder_Author_s_Solution_2.coverage" NAME="01. Flowers Finder_Author's Solution 2 Coverage Results" MODIFIED="1654161885255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Python_Advanced$10_radioactive_mutant_vampire_bunnies.coverage" NAME="10_radioactive_mutant_vampire_bunnies Coverage Results" MODIFIED="1653559082532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_Multidimensional_lists_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_multiplication_function.coverage" NAME="01_multiplication_function Coverage Results" MODIFIED="1653035117194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
