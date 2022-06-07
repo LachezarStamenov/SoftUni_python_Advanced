@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exam/01_pizza_orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/02_darts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs_and_exercises/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs_and_exercises/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_pizza_orders">
+  <component name="RunManager" selected="Python.02_darts">
     <configuration name="01_pizza_orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_north_pole_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_darts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +90,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam/02_north_pole_challenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam/02_darts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_darts" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.01_pizza_orders" />
         <item itemvalue="Python.03_file_manipulator" />
         <item itemvalue="Python.05_word_count" />
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.02_north_pole_challenge" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +250,7 @@
       <workItem from="1654517110953" duration="163000" />
       <workItem from="1654518770838" duration="2105000" />
       <workItem from="1654531545673" duration="6708000" />
-      <workItem from="1654580571966" duration="4758000" />
+      <workItem from="1654580571966" duration="11494000" />
     </task>
     <servers />
   </component>
@@ -418,6 +419,16 @@
           <line>35</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Labs_and_exercises/demo.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam/02_darts.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -434,7 +445,7 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$03_cheese_showcase.coverage" NAME="03_cheese_showcase Coverage Results" MODIFIED="1653048591198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$11_math_operations.coverage" NAME="11_math_operations Coverage Results" MODIFIED="1654021267117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$04_numbers_filter.coverage" NAME="04_numbers_filter Coverage Results" MODIFIED="1653912281004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
-    <SUITE FILE_PATH="coverage/Python_Advanced$demo.coverage" NAME="demo Coverage Results" MODIFIED="1654536613441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs_and_exercises" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$demo.coverage" NAME="demo Coverage Results" MODIFIED="1654604902213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs_and_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02_email_validator_1.coverage" NAME="02_email_validator_1 Coverage Results" MODIFIED="1654273816778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_Error_handling_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$03_springtime.coverage" NAME="03_springtime Coverage Results" MODIFIED="1654244363240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02__Martian_Explorer_Author_s_Solution.coverage" NAME="02. Martian Explorer_Author's Solution Coverage Results" MODIFIED="1653465509990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
@@ -458,8 +469,9 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$03_milkshakes.coverage" NAME="03_milkshakes Coverage Results" MODIFIED="1653455470455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Stacks_Queues_tuples_sets_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_flatten_lists.coverage" NAME="01_flatten_lists Coverage Results" MODIFIED="1653564381611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_Multidimensional_lists_exercises_2" />
     <SUITE FILE_PATH="coverage/Python_Advanced$07_snake_moves.coverage" NAME="07_snake_moves Coverage Results" MODIFIED="1653583990949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_Multidimensional_lists_exercises" />
-    <SUITE FILE_PATH="coverage/Python_Advanced$01_pizza_orders.coverage" NAME="01_pizza_orders Coverage Results" MODIFIED="1654596965911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$01_pizza_orders.coverage" NAME="01_pizza_orders Coverage Results" MODIFIED="1654597457750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$04_rectangle.coverage" NAME="04_rectangle Coverage Results" MODIFIED="1654243183910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$02_darts.coverage" NAME="02_darts Coverage Results" MODIFIED="1654605982580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$03_words_sorting.coverage" NAME="03_words_sorting Coverage Results" MODIFIED="1653478503605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs_and_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02__Pawn_Wars_Author_s_Solution.coverage" NAME="02. Pawn Wars_Author's Solution Coverage Results" MODIFIED="1654195505102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Python_Advanced$05_word_count.coverage" NAME="05_word_count Coverage Results" MODIFIED="1654539070871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_File_handling_lab" />
