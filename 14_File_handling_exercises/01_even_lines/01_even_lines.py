@@ -1,6 +1,3 @@
-# Write a program that reads a text file and prints on the console its even lines. Line numbers start from 0. Before you
-# print the result, replace {"-", ",", ".", "!", "?"} with "@" and reverse the order of the words.
-from fileinput import filename
 chars_to_replace = ["-", ",", ".", "!", "?"]
 
 with open('./text.txt', 'r') as file:
