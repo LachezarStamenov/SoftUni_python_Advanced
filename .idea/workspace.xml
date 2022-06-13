@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/16_Modules_lab/01_calculate_logarithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Modules_lab/02_ASCII_art.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <recent name="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_calculate_logarithm">
+  <component name="RunManager" selected="Python.01_numbers_dictionary">
     <configuration name="01_calculate_logarithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_directory_traversal (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01_numbers_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +87,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_File_handling_exercises/04_Directory_Traversal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Error_handling_exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_File_handling_exercises/04_Directory_Traversal/04_directory_traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Error_handling_exercises/01_numbers_dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_directory_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_ASCII_art" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +109,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_File_handling_exercises/04_Directory_Traversal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16_Modules_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\14_File_handling_exercises\04_Directory_Traversal\04_directory_traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_Modules_lab/02_ASCII_art.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Error_handling_exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Error_handling_exercises/02_email_validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,28 +255,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="workshop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15_Workshop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_Workshop/workshop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="workshop_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_numbers_dictionary" />
+        <item itemvalue="Python.02_email_validator" />
+        <item itemvalue="Python.02_ASCII_art" />
         <item itemvalue="Python.01_calculate_logarithm" />
         <item itemvalue="Python.workshop_1" />
-        <item itemvalue="Python.workshop" />
-        <item itemvalue="Python.04_directory_traversal (1)" />
-        <item itemvalue="Python.04_directory_traversal (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +346,7 @@
       <workItem from="1654682016830" duration="3555000" />
       <workItem from="1654787047621" duration="10491000" />
       <workItem from="1654932419508" duration="485000" />
-      <workItem from="1655134494709" duration="850000" />
+      <workItem from="1655134494709" duration="2365000" />
     </task>
     <servers />
   </component>
@@ -569,10 +569,11 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$workshop_1.coverage" NAME="workshop_1 Coverage Results" MODIFIED="1655134672751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_Workshop" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_christmas_elves.coverage" NAME="01_christmas_elves Coverage Results" MODIFIED="1654427707003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$04_maximal_sum.coverage" NAME="04_maximal_sum Coverage Results" MODIFIED="1653542737739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_Multidimensional_lists_exercises" />
-    <SUITE FILE_PATH="coverage/Python_Advanced$01_numbers_dictionary.coverage" NAME="01_numbers_dictionary Coverage Results" MODIFIED="1654261181604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_Error_handling_exercises" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$01_numbers_dictionary.coverage" NAME="01_numbers_dictionary Coverage Results" MODIFIED="1655136233244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_Error_handling_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$06_summation_pairs.coverage" NAME="06_summation_pairs Coverage Results" MODIFIED="1652862839722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Tuples_and_sets_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$03__Springtime_Author_s_Solution.coverage" NAME="03. Springtime_Author's Solution Coverage Results" MODIFIED="1654244127695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Python_Advanced$03_shopping_list.coverage" NAME="03_shopping_list Coverage Results" MODIFIED="1654519199373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$02_ASCII_art.coverage" NAME="02_ASCII_art Coverage Results" MODIFIED="1655135692683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_Modules_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$06_operate.coverage" NAME="06_operate Coverage Results" MODIFIED="1653302957504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_numbers.coverage" NAME="01_numbers Coverage Results" MODIFIED="1653455476295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Stacks_Queues_tuples_sets_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$05_recursive_power.coverage" NAME="05_recursive_power Coverage Results" MODIFIED="1653935280511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
@@ -586,7 +587,7 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$03_words_sorting.coverage" NAME="03_words_sorting Coverage Results" MODIFIED="1653478503605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs_and_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02__Pawn_Wars_Author_s_Solution.coverage" NAME="02. Pawn Wars_Author's Solution Coverage Results" MODIFIED="1654195505102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Python_Advanced$05_word_count.coverage" NAME="05_word_count Coverage Results" MODIFIED="1654539070871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_File_handling_lab" />
-    <SUITE FILE_PATH="coverage/Python_Advanced$01_calculate_logarithm.coverage" NAME="01_calculate_logarithm Coverage Results" MODIFIED="1655134958778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_Modules_lab" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$01_calculate_logarithm.coverage" NAME="01_calculate_logarithm Coverage Results" MODIFIED="1655135684507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_Modules_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_count_same_values.coverage" NAME="01_count_same_values Coverage Results" MODIFIED="1652877163844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Tuples_and_sets_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_aladdins_gifts.coverage" NAME="01_aladdins_gifts Coverage Results" MODIFIED="1654501831199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$07_grocery.coverage" NAME="07_grocery Coverage Results" MODIFIED="1654017228538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
@@ -613,6 +614,6 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$1_negative_vs_positive.coverage" NAME="1_negative_vs_positive Coverage Results" MODIFIED="1653901008507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_file_opener.coverage" NAME="01_file_opener Coverage Results" MODIFIED="1654531866018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_File_handling_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$03_even_or_odd.coverage" NAME="03_even_or_odd Coverage Results" MODIFIED="1653908986199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_Functions_Advanced_exercises" />
-    <SUITE FILE_PATH="coverage/Python_Advanced$02_email_validator.coverage" NAME="02_email_validator Coverage Results" MODIFIED="1654275169911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_Error_handling_exercises" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$02_email_validator.coverage" NAME="02_email_validator Coverage Results" MODIFIED="1655136191960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_Error_handling_exercises" />
   </component>
 </project>
