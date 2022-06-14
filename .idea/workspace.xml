@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/16_Modules_lab/04_matematical_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/03_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Modules_lab/fibonacci_sequence-demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Modules_lab/fibonacci_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Modules_lab/reading.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_Modules_lab/02_ASCII_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/16_Modules_lab/02_ASCII_art.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -350,7 +348,8 @@
       <workItem from="1654682016830" duration="3555000" />
       <workItem from="1654787047621" duration="10491000" />
       <workItem from="1654932419508" duration="485000" />
-      <workItem from="1655134494709" duration="6608000" />
+      <workItem from="1655134494709" duration="7301000" />
+      <workItem from="1655191595984" duration="824000" />
     </task>
     <servers />
   </component>
