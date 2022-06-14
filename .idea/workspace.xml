@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/16_Modules_lab/fibonacci_sequence-demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_Modules_lab/fibonacci_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_Modules_lab/reading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/01_fireworks_show.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -58,8 +57,8 @@
       <recent name="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\14_File_handling_exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_triangle (1)">
-    <configuration name="02_ASCII_art" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_fireworks_show">
+    <configuration name="01_fireworks_show" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,12 +66,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16_Modules_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_Modules_lab/02_ASCII_art.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam/01_fireworks_show.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,28 +138,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_Modules_lab/Triangle/03_triangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="04_directory_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_File_handling_exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\12_Error_handling_exercises\04_directory_traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_fireworks_show" />
         <item itemvalue="Python.03_triangle (1)" />
         <item itemvalue="Python.03_triangle (2)" />
         <item itemvalue="Python.03_triangle" />
         <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.02_ASCII_art" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +326,7 @@
       <workItem from="1654787047621" duration="10491000" />
       <workItem from="1654932419508" duration="485000" />
       <workItem from="1655134494709" duration="7301000" />
-      <workItem from="1655191595984" duration="824000" />
+      <workItem from="1655191595984" duration="5036000" />
     </task>
     <servers />
   </component>
@@ -538,6 +515,11 @@
           <line>106</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam/01_fireworks_show.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -549,6 +531,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Advanced$01_fireworks_show.coverage" NAME="01_fireworks_show Coverage Results" MODIFIED="1655201024082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$03_flights.coverage" NAME="03_flights Coverage Results" MODIFIED="1654609509262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02_file_reader.coverage" NAME="02_file_reader Coverage Results" MODIFIED="1654534143218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_File_handling_lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$03_triangle__1_.coverage" NAME="03_triangle (1) Coverage Results" MODIFIED="1655142260990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_Modules_lab/triangle" />
