@@ -17,9 +17,6 @@
 # •	The total number of eggs collected
 # Constraints
 # •	There will NOT be two or more paths consisting of the same total amount of eggs.
-import current
-
-
 def move_up(row, col):
     return row - 1, col
 
