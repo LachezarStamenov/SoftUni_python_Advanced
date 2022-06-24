@@ -27,8 +27,6 @@ def best_list_pureness(num_list, k):
     return f'Best pureness {value} after {rotation} rotations'
 
 
-
-
 test = ([4, 3, 2, 6], 4)
 result = best_list_pureness(*test)
 print(result)
