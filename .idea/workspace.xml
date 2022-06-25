@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a881e1-f711-46c0-b1a5-007f531ae7ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exam/03_numbers_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/01_bombs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exam/01_taxi_express.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/01_taxi_express.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exam/02_checkmate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/02_checkmate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exam/02_minesweeper_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/02_minesweeper_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exam/03_list_pureness.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/03_list_pureness.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exam/DEMO-funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/DEMO-funcs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +58,29 @@
       <recent name="C:\Users\Lachezar.Stamenov\PycharmProjects\Python_Advanced\14_File_handling_exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_numbers_search">
+  <component name="RunManager" selected="Python.01_bombs">
+    <configuration name="01_bombs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam/01_bombs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01_taxi_express" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,28 +147,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_list_pureness" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam/03_list_pureness.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="03_numbers_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_bombs" />
         <item itemvalue="Python.03_numbers_search" />
         <item itemvalue="Python.02_minesweeper_generator" />
         <item itemvalue="Python.01_taxi_express" />
         <item itemvalue="Python.02_checkmate" />
-        <item itemvalue="Python.03_list_pureness" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +275,8 @@
       <workItem from="1655920215355" duration="302000" />
       <workItem from="1655921167474" duration="1271000" />
       <workItem from="1655999561401" duration="5725000" />
-      <workItem from="1656070850719" duration="2662000" />
+      <workItem from="1656070850719" duration="3771000" />
+      <workItem from="1656086306642" duration="3256000" />
     </task>
     <servers />
   </component>
@@ -503,6 +500,11 @@
           <line>22</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam/01_bombs.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -531,6 +533,7 @@
     <SUITE FILE_PATH="coverage/Python_Advanced$02_person_info.coverage" NAME="02_person_info Coverage Results" MODIFIED="1653041062472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Functions_Advanced_Lab" />
     <SUITE FILE_PATH="coverage/Python_Advanced$02_game_of_words.coverage" NAME="02_game_of_words Coverage Results" MODIFIED="1655747844413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$06_range_day.coverage" NAME="06_range_day Coverage Results" MODIFIED="1653565723236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_Multidimensional_lists_exercises_2" />
+    <SUITE FILE_PATH="coverage/Python_Advanced$01_bombs.coverage" NAME="01_bombs Coverage Results" MODIFIED="1656088847444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$01_matching.coverage" NAME="01_matching Coverage Results" MODIFIED="1655382443436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exam" />
     <SUITE FILE_PATH="coverage/Python_Advanced$08_crossroads.coverage" NAME="08_crossroads Coverage Results" MODIFIED="1653473665142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_List_as_stacks_and_queues_exercises" />
     <SUITE FILE_PATH="coverage/Python_Advanced$05_santas_present_factory.coverage" NAME="05_santas_present_factory Coverage Results" MODIFIED="1653456147555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_Stacks_Queues_tuples_sets_exercises" />
